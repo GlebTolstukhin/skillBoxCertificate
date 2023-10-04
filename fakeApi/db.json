@@ -1,0 +1,129 @@
+{
+  "persons": [
+    {
+      "id": 1,
+      "name": {
+        "firstName": "Иван",
+        "lastName": "AAAaA",
+        "middleName": "Залупович"
+      },
+      "creationDate": {
+        "date": "21.02.2021",
+        "time": "12.41"
+      },
+      "lastChange": {
+        "date": "04.10.2023",
+        "time": "17.52"
+      },
+      "contacts": [
+        {
+          "type": "VK",
+          "address": ""
+        },
+        {
+          "type": "VK",
+          "address": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": {
+        "firstName": "Иван",
+        "lastName": "BBBBBB",
+        "middleName": "Залупович"
+      },
+      "creationDate": {
+        "date": "21.02.2021",
+        "time": "12.41"
+      },
+      "lastChange": {
+        "date": "04.10.2023",
+        "time": "18.25"
+      },
+      "contacts": [
+        {
+          "type": "VK",
+          "address": ""
+        },
+        {
+          "type": "VK",
+          "address": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": {
+        "firstName": "Иван",
+        "lastName": "CCCCCCCCCCCCC",
+        "middleName": "Залупович"
+      },
+      "creationDate": {
+        "date": "21.02.2021",
+        "time": "12.41"
+      },
+      "lastChange": {
+        "date": "04.10.2023",
+        "time": "18.25"
+      },
+      "contacts": [
+        {
+          "type": "phoneNumber",
+          "address": "7-777-777-77-77"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": {
+        "firstName": "Иван",
+        "lastName": "DDDDDDD",
+        "middleName": "Залупович"
+      },
+      "creationDate": {
+        "date": "21.02.2021",
+        "time": "12.41"
+      },
+      "lastChange": {
+        "date": "04.10.2023",
+        "time": "18.25"
+      },
+      "contacts": [
+        {
+          "type": "VK",
+          "address": "21323"
+        },
+        {
+          "type": "VK",
+          "address": "123"
+        },
+        {
+          "type": "VK",
+          "address": "111"
+        },
+        {
+          "type": "VK",
+          "address": "222"
+        }
+      ]
+    },
+    {
+      "name": {
+        "firstName": "",
+        "lastName": "",
+        "middleName": ""
+      },
+      "creationDate": {
+        "date": "04.10.2023",
+        "time": "17.52"
+      },
+      "lastChange": {
+        "date": "04.10.2023",
+        "time": "17.52"
+      },
+      "contacts": [],
+      "id": 5
+    }
+  ]
+}
